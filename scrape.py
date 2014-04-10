@@ -8,10 +8,17 @@ def loginGmail(filename):
 	gKey = gmail.login(username, password)
 	return gKey
 
-gKey = loginGmail("accountDetails")
-mails=gKey.inbox().mail(sender="MD06JDIMA@mail.house.gov",prefetch=True)
+def writeToFile(data,filename):
+	f = open(filename,"w")
+	line = ""
+	for mail in data:
+		line = line + mail.fr + "," + str(mail.sent_at) + "," + mail.body + "\n"
+	f.write(line)
+	return True
 
-for i in mails:
-	print i.fr
-	print str(i.sent_at)
-	print i.body
+if __name__ == "__main__":
+	gKey = loginGmail("accountDetails")
+	sender = "MD06JDIMA@mail.house.gov"
+	mails=gKey.inbox().mail(sender=sender,prefetch=True)
+	writeToFile(mails,"test.csv")
+
