@@ -10,6 +10,7 @@ Faculty Fellow, Institute for Policy Research<br/>
 Northwestern University<br/>
 
 [David Doherty](http://orion.luc.edu/~ddoherty/)<br/>
-Assistant Professor,<br/>
+Assistant Professor<br/>
 Loyola University Chicago<br/>
+
 ------------------------------------------------------------
