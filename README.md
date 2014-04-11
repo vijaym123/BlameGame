@@ -1,7 +1,7 @@
 Scrape Newsletters
 =================
 
-This project is on collecting data from newsletters and analyzing it. <br>
+The project is on collecting data from newsletters and analyzing it. <br>
 
 **Mentored By :** <br/>
 [Laurel Harbridge](http://faculty.wcas.northwestern.edu/~lmh735/)<br/>
