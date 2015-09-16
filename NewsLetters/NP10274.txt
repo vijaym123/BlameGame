@@ -1,0 +1,25 @@
+; Sat, 26 Apr 2014 14:05:44 -0400 (EDT)
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [143.228.126.146])
+by s-bulk1-p.house.gov
+with ESMTP id s3QI5dq7030188
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Sat, 26 Apr 2014 14:05:39 -0400
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [127.0.0.1])
+by hhws-www1.house.gov (8.13.8/8.10.1) with ESMTP id s3QI5dNS022849
+for
+; Sat, 26 Apr 2014 14:05:39 -0400
+Received: (from webforms@localhost)
+by hhws-www1.house.gov (8.13.8/8.13.8/Submit) id s3QI5do3022848;
+Sat, 26 Apr 2014 14:05:39 -0400
+Message-Id:
+X-Authentication-Warning: hhws-www1.house.gov: webforms set sender to dj724530@gmail.com using -f
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Sat, 26 Apr 2014 18:05:39 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: news_you_can_use-dc00 SUBSCRIBE

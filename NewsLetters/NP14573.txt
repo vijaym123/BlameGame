@@ -1,0 +1,24 @@
+; Mon, 4 Nov 2013 18:05:19 -0500 (EST)
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [143.228.126.147])
+by s-bulk1-f.house.gov
+with ESMTP id rA4N5Dob015367
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Mon, 4 Nov 2013 18:05:14 -0500
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [127.0.0.1])
+by hhws-www2.house.gov (8.13.8/8.10.1) with ESMTP id rA4N5DCm021372
+for
+; Mon, 4 Nov 2013 18:05:13 -0500
+Received: (from webforms@localhost)
+by hhws-www2.house.gov (8.13.8/8.13.8/Submit) id rA4N5D5B021371;
+Mon, 4 Nov 2013 18:05:13 -0500
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Mon, 4 Nov 2013 23:05:13 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: newsletter-113-mn02 SUBSCRIBE

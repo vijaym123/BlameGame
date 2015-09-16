@@ -1,0 +1,24 @@
+; Fri, 1 Nov 2013 14:35:28 -0400 (EDT)
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [143.228.126.146])
+by s-bulk2-f.house.gov
+with ESMTP id rA1IZMkl030691
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Fri, 1 Nov 2013 14:35:23 -0400
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [127.0.0.1])
+by hhws-www1.house.gov (8.13.8/8.10.1) with ESMTP id rA1IZMNL028346
+for
+; Fri, 1 Nov 2013 14:35:22 -0400
+Received: (from webforms@localhost)
+by hhws-www1.house.gov (8.13.8/8.13.8/Submit) id rA1IZMvk028345;
+Fri, 1 Nov 2013 14:35:22 -0400
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Fri, 1 Nov 2013 18:35:22 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: E-NEWSLETTER-TN02 subscription

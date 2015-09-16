@@ -1,0 +1,5 @@
+
+&gt; OK
+Confirming:
+&gt; SUBSCRIBE NY24-BROADCAST-EMAIL-LIST David Johnson
+You have been added to the NY24-BROADCAST-EMAIL-LIST list.

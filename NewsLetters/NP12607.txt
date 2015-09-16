@@ -1,0 +1,54 @@
+DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Send me an email
+|
+Forward to a Friend
+Forbes: We Need More Oversight for Surveillance Issues
+By Congressman Randy Forbes
+Richmond Times-Dispatch
+February 7, 2014
+The debate over individual privacy and national security has taken center stage once again this month. Here are four developments in the case of national surveillance that you need to know about:
+1. Surveillance reforms.
+Earlier this month, President Obama
+responded
+to revelations that the National Security Agency had built a surveillance network that reaches far beyond the scope of its authority. In doing so, he finally acknowledged broken privacy rules and the need for accountability at the NSA. The President outlined a vision for surveillance reforms and issued directives as a result of the findings of his review panel. The President said the NSA would continue to collect telephony metadata logging the origin, destination, time and duration of phone calls made in the U.S., but would need a judges approval and that information would be stored by a third party. The President has promised additional recommendations from the national security agencies by March 28 th .
+2 .
+Oversight board recommends ending telephone program.
+The Privacy and Civil Liberties Oversight
+Board
+recommended ending the bulk telephone records program saying that it has minimal benefits for national security. The White House rejected the review board findings, saying that they disagreed with the boards analysis.
+3. Surveillance order disclosure.
+Last week, the Administration
+announced
+it will allow tech companies like Google and Facebook to publicly release some information about the government surveillance requests the companies receive. Google, Apple, Facebook, Microsoft, Yahoo, and LinkedIn had sued the government to declassify the information. Internet companies will be able to give customers a better idea of how often the government demands their information, but will not be able to disclose what is being collected or how much.
+4. Spying through Angry Birds, Google Maps, and other apps.
+Even as reforms are beginning to take place,
+The New York Times
+and
+The
+Guardian
+reported this week that the NSA is tapping smartphone apps, like Angry Birds, to obtain personal information taken from individuals user profiles like age, gender, marital status, income levels and more. The news reminds us that we may not even know yet the full extent to which the NSA may have overstepped its authority.
+This months four key developments highlight a real and urgent need to provide transparency to the American people about intelligence-gathering programs. The developments also underscore an important role of Congress in this situation: creating accountability. As the oversight leg of our government, Congress has a responsibility to ensure that the security and safety of our nation does not come at the cost of our freedoms or individual liberties as American citizens. Many intelligence programs are meant to keep Americans safe. However, the NSA has limited authority to gather electronic information and it has grossly overstepped its bounds. We need aggressive oversight, as well as a legal framework that reassures all Americans that our rights are being protected.
+The Judiciary Committee, of which I am a member, has been closely examining surveillance issues over the past several months. On Tuesday, the Committee held an oversight hearing on the recommendations outlined this month by President Obama. Key to those hearings was asking questions about the blurring lines between privacy and protection. More information can be found
+here .
+Additionally, Ive joined with three of my colleagues in introducing a bipartisan bill that will provide much-needed accountability to a system that has run aground of its constitutional authority. Currently, when the secret court responsible for overseeing surveillance (the Foreign Intelligence Surveillance Court) reviews a decision, the Attorney General must determine if the issue is an appropriate interpretation of current law. Only if the Attorney General deems the decision significant must the information be shared with Congress. Otherwise, the information isn't required to be shared.
+I believe we need an extra layer of oversight. The Intelligence Oversight and Accountability Act (HR 3103) requires that the Attorney General share all FISC decisions with Congress. It removes the subjective layer that exists between what Congress should or shouldn't review. The result will be increased oversight of the secret court and of intelligence community programs overall. You can read more about the legislation
+here .
+Privacy and protection are not mutually exclusive. The security and safety of our nation must not come at the cost of our freedoms or individual liberties as American citizens.
+Read the article online here:
+http://www.timesdispatch.com/opinion/their-opinion/columnists-blogs/guest-columnists/forbes-we-need-more-oversight-for-surveillance-issues/article_c45a4cc1-c37d-59bb-bd41-0bf403affba9.html
+Home
+|
+Contact
+|
+Forward to a Friend
+|
+Unsubscribe
+|
+Subscribe
+|
+Privacy
+|
+Office Locations
+Please do not reply to this message. This email address does not accept incoming messages. To send an email,
+click here .
+Click Here Click Here

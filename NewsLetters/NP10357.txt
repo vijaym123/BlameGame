@@ -1,0 +1,35 @@
+
+Cc:
+Subject: Newsletter Sign Up
+SCCMAIL
+216.80.113.16
+Mr.
+David
+Johnson
+1032 W Sheridan Rd
+Coffey Hall
+Chicago
+IL
+60660
+dj724530@gmail.com
+ENEWS
+Mahalo for signing up for my eNewsletter. This email confirms your subscription.
+-----Original Message-----
+From: website@hirono.senate.gov
+Sent: 4/25/2014 6:16:53 PM
+To: "webmail@hirono-iq.senate.gov" &lt;webmail@hirono-iq.senate.gov&gt;
+Cc:
+Subject: Newsletter Sign Up
+&lt;APP&gt;SCCMAIL
+&lt;IP&gt;216.80.113.16&lt;/IP&gt;
+&lt;PREFIX&gt;Mr.&lt;/PREFIX&gt;
+&lt;FIRST&gt;David&lt;/FIRST&gt;
+&lt;LAST&gt;Johnson&lt;/LAST&gt;
+&lt;ADDR1&gt;1032 W Sheridan Rd&lt;/ADDR1&gt;
+&lt;ADDR2&gt;Coffey Hall&lt;/ADDR2&gt;
+&lt;CITY&gt;Chicago&lt;/CITY&gt;
+&lt;STATE&gt;IL&lt;/STATE&gt;
+&lt;ZIP&gt;60660&lt;/ZIP&gt;
+&lt;EMAIL&gt;dj724530@gmail.com&lt;/EMAIL&gt;
+&lt;AFFL&gt;ENEWS&lt;/AFFL&gt;
+&lt;/APP&gt;

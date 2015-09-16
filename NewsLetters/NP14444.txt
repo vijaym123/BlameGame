@@ -1,0 +1,24 @@
+; Sun, 10 Nov 2013 01:05:09 -0500 (EST)
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [143.228.126.146])
+by s-bulk1-f.house.gov
+with ESMTP id rAA6546Q005390
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Sun, 10 Nov 2013 01:05:04 -0500
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [127.0.0.1])
+by hhws-www1.house.gov (8.13.8/8.10.1) with ESMTP id rAA654NG032597
+for
+; Sun, 10 Nov 2013 01:05:04 -0500
+Received: (from webforms@localhost)
+by hhws-www1.house.gov (8.13.8/8.13.8/Submit) id rAA654cu032596;
+Sun, 10 Nov 2013 01:05:04 -0500
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Sun, 10 Nov 2013 06:05:04 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: e-news-from-albiosires-nj08 SUBSCRIBE

@@ -1,0 +1,14 @@
+
+&gt; SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous
+A confirmation request is being mailed
+to you. Please wait until it arrives
+before sending any SET commands or any other commands that require you to be
+subscribed to
+the list. Your subscription
+will not be completed
+until you
+respond to the confirmation request.
+&gt; On Mon, Apr 28, 2014 at 2:00 PM, LS1.HOUSE.GOV LISTSERV Server (16.0) &lt;
+Unknown command - "ON". Try HELP.
+&gt; LISTSERV@ls1.house.gov&gt; wrote:
+Unknown command - "LISTSERV@LS1.HOUSE.GOV&gt;". Try HELP.

@@ -1,0 +1,45 @@
+; Wed, 30 Oct 2013 22:19:31 -0400 (EDT)
+Received: from GEMINI.web.us.house.gov (gemini.house.gov [143.228.150.167])
+by s-bulk1-p.house.gov
+with ESMTP id r9V2JPfA024203
+for
+; Wed, 30 Oct 2013 22:19:26 -0400
+Received: from mail-vc0-f196.google.com ([209.85.220.196])
+by GEMINI.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201310310219250212762; Wed, 30 Oct 2013 22:19:26 -0400
+Received: by mail-vc0-f196.google.com with SMTP id ht10so291708vcb.7
+for
+; Wed, 30 Oct 2013 19:19:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+:content-type;
+bh=9VkLSNh8Zo4Usgf0hRgPeU6VWS0NJXoSY0QiLxm6W7c=;
+b=UAQqHyw9JYNiTIwHCyg/hU1i72Wy/mHc7sFNbTAa3VpHbTVEglUJLiT2NFvb21wPac
+3N/qr7itTfJD3OZOcamUq6ct9PLoyIXA1mxsrSyObxTrVlqu4baUdoJYh4OrCMhi5CD5
+rZusGZ589dgcfcm3FTUD+AAzx5D0XKSHwnUsKySp/11McAXVkArVqPMGcALTjyNovxmb
+I7UBUofuWKXe/yOObwRifhIwu4fns19MbkeBv91QamisYLJz/bnZPgW2VupbjKzuJNst
+36lIzPwN8g/HI9Bo04faMvm5dQnLYZCIP5sZvEM/bUuadjbygqsO4N+i5x8PVJAics5F
+MGBQ==
+MIME-Version: 1.0
+X-Received: by 10.220.84.65 with SMTP id i1mr62111vcl.51.1383185965604; Wed,
+30 Oct 2013 19:19:25 -0700 (PDT)
+Received: by 10.58.15.138 with HTTP; Wed, 30 Oct 2013 19:19:25 -0700 (PDT)
+In-Reply-To:
+References:
+Date: Wed, 30 Oct 2013 21:19:25 -0500
+Message-ID:
+Subject: Re: Command confirmation request (C965BF80)
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: contenttransferencoding,cipher,mimeversion,esmtp,contenttype,messageid,xmailer,m
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.220.196
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201310310219250212762
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: OK

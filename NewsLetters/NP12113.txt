@@ -1,0 +1,42 @@
+; Wed, 26 Feb 2014 15:15:46 -0500 (EST)
+Received: from GEMINI.web.us.house.gov (gemini.house.gov [143.228.150.167])
+by s-bulk1-p.house.gov
+with ESMTP id s1QKFeId016634
+for
+; Wed, 26 Feb 2014 15:15:41 -0500
+Received: from mail-ve0-f177.google.com ([209.85.128.177])
+by GEMINI.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201402262015400220706; Wed, 26 Feb 2014 15:15:41 -0500
+Received: by mail-ve0-f177.google.com with SMTP id db12so2739377veb.36
+for
+; Wed, 26 Feb 2014 12:15:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:date:message-id:subject:from:to:content-type;
+bh=cJo5PMrwbfaeJUgcXueq2p2E4L/eWCBHTorxLO8HOhs=;
+b=e9nK6D+CivLfGp/2YDdteeQ7A1MhjlWEvfLbOA3Ph7F2c8bTyzXCUpL9eZ/CWLKj+U
+n4jl9SucAO/Yl1UBP5MEyzdcVJZeZ/SedIuiiFLWjbKaJiWBrZbsXaVG5NFODH4eOKY5
++4Xx3YfgGEjnvSQx579iDx1bUyqRnqyXi+UmmHv5iudVRLyC0bEhC1RrjgfmiXFzT2v5
+2lWjg9gpKmhyZIdGuOAqB7OsAZh23HiWrs+uO4gZHHZnYZ3A1EL/97/kyLyaKHBaEcf/
+nHlB7X2uAQpf7gV+cUItmR3pKET99OZsPaBuQ6ornHVDKk5u6G4qCFcNpznUxya+w2rx
+d4PA==
+MIME-Version: 1.0
+X-Received: by 10.52.101.135 with SMTP id fg7mr6115958vdb.17.1393445740688;
+Wed, 26 Feb 2014 12:15:40 -0800 (PST)
+Received: by 10.58.253.8 with HTTP; Wed, 26 Feb 2014 12:15:40 -0800 (PST)
+Date: Wed, 26 Feb 2014 14:15:40 -0600
+Message-ID:
+Subject: SUBSCRIBE ALGREENNEWS-TX09 Anonymous
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: anonymous,subscribe
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.177
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201402262015400220706
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: SUBSCRIBE ALGREENNEWS-TX09 Anonymous

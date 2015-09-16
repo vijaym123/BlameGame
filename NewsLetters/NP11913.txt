@@ -1,0 +1,42 @@
+; Wed, 26 Feb 2014 15:18:52 -0500 (EST)
+Received: from LYNX.web.us.house.gov (lynx.house.gov [143.228.150.188])
+by s-bulk2-p.house.gov
+with ESMTP id s1QKIktO014662
+for
+; Wed, 26 Feb 2014 15:18:47 -0500
+Received: from mail-ve0-f175.google.com ([209.85.128.175])
+by LYNX.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201402262018460814214; Wed, 26 Feb 2014 15:18:46 -0500
+Received: by mail-ve0-f175.google.com with SMTP id oy12so2777520veb.34
+for
+; Wed, 26 Feb 2014 12:18:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:date:message-id:subject:from:to:content-type;
+bh=7303gKvwh9gFCDWiig6XfhFnLNS1Zu+yyP1GjHXjRJM=;
+b=EGlHaUObZWDP75NkKB0zaYcHjxLQnWLTqLvwOF2jJKzQY5VZmeOwDUAeN1tjgl6JXu
+oA37DoTACI/S63I1064Q3pXoG/hTYqo7kc58sD/AB3Zdgrz3G5Cx7E1NpDTAScHwwrRo
++nD1nHEM1VJviCwP+t7oc9qBJtJ69PAy3ZdfEOzMpuflgO9RvDsOcZhT9MFbB/Oam/Aa
+vUDl0kgBg/HrSl1IOIUH31I3dwk8F9SejW6hmCW8nscHV433yvJJr8Lv+AErNd4OsOoK
+qLu/lfUdSyRKjpbPQI7hSUrNAOXz80DO/0Asfk+ZF7EehHTL/H+QazKKom1Eu4msoHks
+MkBg==
+MIME-Version: 1.0
+X-Received: by 10.58.119.161 with SMTP id kv1mr7253255veb.21.1393445926276;
+Wed, 26 Feb 2014 12:18:46 -0800 (PST)
+Received: by 10.58.253.8 with HTTP; Wed, 26 Feb 2014 12:18:46 -0800 (PST)
+Date: Wed, 26 Feb 2014 14:18:46 -0600
+Message-ID:
+Subject: SUBSCRIBE CONGRESSIONAL-UPDATES-NJ02 Anonymous
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: anonymous,congressional,updates,subscribe
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.175
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201402262018460814214
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: SUBSCRIBE CONGRESSIONAL-UPDATES-NJ02 Anonymous

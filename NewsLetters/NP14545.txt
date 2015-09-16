@@ -1,0 +1,73 @@
+
+* To unsubscribe from the list:
+NEWSLETTER-MN01-signoff-request@LS1.HOUSE.GOV
+reply to this message,
+delete the text, and type OK as
+the text of your
+message. If
+you receive an error
+message, try sending a
+new message to
+LISTSERV@LS1.HOUSE.GOV (without
+using the "reply" function)
+and type OK
+&CODE; as the text of your message.
+Your &C; will be cancelled automatically if LISTSERV does not receive your
+confirmation within &EXPIRE;h.
+After that time, you must
+start over and
+resend the &C; to get a new confirmation code. If you change your mind and
+decide that you do
+not want to confirm the &C;,
+then simply discard this
+message and let the request expire on its own.
+------------------------- Original mail header --------------------------
+X-LSVMFlags: 16
+Received: from s-bulk2-p.house.gov (s-bulk2-p.house.gov [143.228.181.88])
+by ls1.house.gov (8.14.5+Sun/0.00.0) with ESMTP id rAAIbHom017945
+for
+; Sun, 10 Nov 2013 13:37:17 -0500 (EST)
+Received: from LYNX.web.us.house.gov (lynx.house.gov [143.228.150.188])
+by s-bulk2-p.house.gov
+with ESMTP id rAAIbBN2024307
+for
+; Sun, 10 Nov 2013 13:37:12 -0500
+Received: from mail-vc0-f181.google.com ([209.85.220.181])
+by LYNX.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201311101837110809572; Sun, 10 Nov 2013 13:37:12 -0500
+Received: by mail-vc0-f181.google.com with SMTP id lf12so334612vcb.12
+for
+; Sun, 10 Nov 2013 10:37:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+:content-type;
+bh=l82OWRXpwCFPsKQN3go3NhW9xs/Hxk6IMwkQnscg+Ug=;
+b=LOfLA9KX88Wfbl0UlRSCnQBU3v49T1KsMGIH8YNQgpD7QChfywTVNeJ4YMPvxoxl1u
+kI6sTzNvWnd0vfyamthSENddDXecQxg8zFAp+z4fzEOh8+4cGDeBvRfZIeNeo1O6lTkn
+Atb/uRFqXo4ablIxFUTX552WtcpwYlJxeVuTB8mUN18JYFSlmnRWcVvKiQAQ7oPQSUW8
+885z1c2LnHaKBipJCACE28HlWIdqwxUFfmSSfVBSq90tFWZcvWANU1EcR5GvxXG2nIPp
+y34TVjKpstYVl/ZIlkP8sbW16BLZZY6jlh2KUqdcLbnGOLmwtY10dRXL/vUlqYrWkWid
+yoaQ==
+MIME-Version: 1.0
+X-Received: by 10.221.51.206 with SMTP id vj14mr21030462vcb.17.1384108631721;
+Sun, 10 Nov 2013 10:37:11 -0800 (PST)
+Received: by 10.58.15.138 with HTTP; Sun, 10 Nov 2013 10:37:11 -0800 (PST)
+In-Reply-To:
+References:
+Date: Sun, 10 Nov 2013 12:37:11 -0600
+Message-ID:
+Subject: Re: Command confirmation request (FB61B5B4)
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: contenttransferencoding,cipher,mimeversion,esmtp,contenttype,messageid,xmailer,m
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.220.181
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201311101837110809572
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: ok

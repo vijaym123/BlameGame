@@ -1,0 +1,52 @@
+DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Send me an email
+|
+Forward to a Friend
+Friend
+Thought you might be interested in seeing the below release on the bill that the House Judiciary Committee just approved, which safeguards Americans civil liberties by prohibiting the NSA practice of bulk data collection and increasing oversight of our intelligence programs. This legislation includes an amendment I offered, along with a bipartisan group of my colleagues, to protect civil liberties while preserving the ability to ensure Americas national security.
+Yours in service,
+Randy
+House Judiciary Committee Approves USA Freedom Act
+Bill protects Americans privacy while preserving our ability to protect Americas national security
+Washington, D.C.
+The House Judiciary Committee today approved by a vote of 32-0 the
+USA Freedom Act
+(H.R. 3361), a bipartisan bill authored by Crime, Terrorism, Homeland Security, and Investigations Subcommittee Chairman Jim Sensenbrenner (R-Wisc.) to reform our nations intelligence-gathering programs operated under the Foreign Intelligence Surveillance Act (FISA), including ending the bulk collection of data.
+At the markup, an amendment in the nature of a substitute was offered by Subcommittee Chairman Sensenbrenner on behalf of House Judiciary Committee Chairman Bob Goodlatte (R-Va.), Ranking Member John Conyers (D-Mich.), Crime Subcommittee Ranking Member Bobby Scott (D-Va.), Congressman Jerrold Nadler (D-N.Y.), and Congressman Randy Forbes (R-Va.) and was adopted by the Committee.
+This bipartisan substitute amendment protects Americans civil liberties while maintaining a workable framework for intelligence officials to protect our national security and helps restore confidence and ensures transparency in the governments intelligence-gathering programs.
+House Judiciary Committee Chairman Goodlatte, Ranking Member Conyers, Crime Subcommittee Chairman Sensenbrenner, Crime Subcommittee Ranking Member Scott, Congressman Nadler, and Congressman Forbes praised the Committees approval of this important legislation in the joint statement below.
+Todays strong, bipartisan vote by the House Judiciary Committee takes us one step closer to ending bulk collection once and for all and safeguards Americans civil liberties as our intelligence community keeps us safe from foreign enemies who wish us harm. For nearly a year, the House Judiciary Committee has examined our nations intelligence-gathering programs operated under FISA and has worked together across party lines and with the Obama Administration to reach this bipartisan solution that includes real protections for Americans civil liberties, robust oversight, and additional transparency. As the Committee of primary jurisdiction, we urge the House and Senate to move expeditiously on this legislation so that we can begin to restore confidence in the way intelligence is gathered and protect the privacy rights of all Americans.
+Below are key provisions of H.R. 3361, as approved by the House Judiciary Committee today.
+Prohibits Bulk Collection of Data:
+The
+bill protects Americans privacy by prohibiting bulk collection under Section 215 of the PATRIOT Act (Section 501 of FISA), under the FISA Pen Register/Trap and Trace law (Section 402 of FISA), and under National Security Letter statutes.
+New Mechanism for Obtaining Call Records:
+To ensure national security officials have the needed information to keep Americans safe while enhancing Americans confidence in the manner in which this information is collected and held, the bill creates a new process for the collection of call detail records. The government would be required to seek approval from the Foreign Intelligence Surveillance Court (FISC) of specific selection terms on a case-by-case basis.
+The FISC is authorized to allow up to two hops. The government may renew these orders every 180 days.
+Protects Americans Privacy:
+The bill codifies current minimization procedures, requiring the government to adopt procedures that are reasonably designed to minimize the retention and prohibit the dissemination of nonpublic information about Americans. It also clarifies the existing provision in the FISA Amendments Act against reverse targeting and reiterates Congress intent in protecting the communications of Americans.
+Additionally, it prohibits the government from using unlawfully obtained information about Americans acquired outside the scope of court-approved targeting and minimization procedures.
+Ensures Robust Oversight of Intelligence-Gathering Programs:
+The bill increases oversight of our intelligence-gathering programs by providing for judicial review of minimization procedures for the production of tangible things, such as emails and phone calls.
+Increases Transparency of Intelligence-Gathering Programs:
+The bill
+creates a panel of legal experts to help ensure the FISA court adequately considers privacy concerns and Constitutional rights of Americans and also requires the Attorney General to conduct a declassification review of each decision, order, or opinion of the FISA court that includes a significant construction or interpretation of the law. The bill also requires the government to disclose the number of requests made for call detail records under the new collection program and requires the Administrative Office of the U.S. Courts to publicly report annually the number of FISA orders issued, modified, or denied by the FISC.
+Allows American Tech Companies to Disclose FISA Orders:
+The Committee today approved an amendment offered by Congresswoman Suzan DelBene (D-Wa.), Chairman Goodlatte, and Crime Subcommittee Chairman Sensenbrenner to allow companies to semi-annually publicly report requests for information they receive under FISA and National Security Letter authorities. This amendment codifies the Justice Departments settlement with several companies earlier this year while making additional modifications to allow for even greater transparency to the American people about their privacy and the extent of the intelligence communitys work, while protecting national security.
+###
+Home
+|
+Contact
+|
+Forward to a Friend
+|
+Unsubscribe
+|
+Subscribe
+|
+Privacy
+|
+Office Locations
+Please do not reply to this message. This email address does not accept incoming messages. To send an email,
+click here .
+Click Here Click Here

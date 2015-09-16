@@ -1,0 +1,18 @@
+
+Gmail update: Reach more people you know
+Ever wanted to email someone you know, but haven&#39;t yet exchanged email addresses? Starting this week, when you&#39;re composing a new email, Gmail will suggest your Google+ connections as recipients, even if you haven&#39;t exchanged email addresses yet.
+How it works with email addresses
+Emailing Google+ connections works a bit differently to protect the privacy of email addresses. Your email address isn&#39;t visible to your Google+ connections until you send them an email, and their email addresses are not visible to you until they respond.
+Receiving email from people outside
+your circles
+If you receive an email from someone outside your circles, it will be filtered into the
+Social category of the inbox
+(if enabled) and only after you respond or add them to your circles, can they start another conversation with you.
+How to control who can contact you
+You&#39;re in control of whether people can reach you with a
+new setting in Gmail
+on the desktop. To learn more, check out the
+Help Center .
+The Gmail Team
+2013 Google Inc. 1600 Amphitheatre Parkway, Mountain View, CA 94043
+You have received this mandatory email service announcement to update you about important changes to your Gmail product or account.

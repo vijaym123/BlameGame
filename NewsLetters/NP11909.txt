@@ -1,0 +1,42 @@
+; Wed, 26 Feb 2014 15:18:42 -0500 (EST)
+Received: from GEMINI.web.us.house.gov (gemini.house.gov [143.228.150.167])
+by s-bulk2-p.house.gov
+with ESMTP id s1QKIabJ014580
+for
+; Wed, 26 Feb 2014 15:18:37 -0500
+Received: from mail-ve0-f181.google.com ([209.85.128.181])
+by GEMINI.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201402262018360220718; Wed, 26 Feb 2014 15:18:36 -0500
+Received: by mail-ve0-f181.google.com with SMTP id jw12so2792436veb.12
+for
+; Wed, 26 Feb 2014 12:18:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:date:message-id:subject:from:to:content-type;
+bh=mbc6Oo/vIQ8Ym62hLt7RLCRtPX124Kwa0we8L7pEoHA=;
+b=CB3m7Ksh/OdoyyWuAP/9BHPSkJ/iScxXhNxxwHwC5V2YADUdvO3sAU27upXY5or+72
+b4TpfPFNOuzsA0U4wEnGm/cPnyFNj/h2wiKCneIXMnAYPgB39r4J0dov5rk5gqtqjddI
+agWB9xF5ONczef6cwyXe0TrVPxlhRs9AenQM5qY4uzEbwnNtLZf73Rxvm+TnwKH9e9Th
+hSLQr0IsB77BZgb4RuPl0b0hB9nPL07KVzrXeAC2CXVd4ypFQS5U0VGBBvEj/+gZHJx+
+1+wClExnhIpB/6GmqCuivdbN9WM7MyNGhk0rj/tFqOMc5jsBxjfsRLHopaAM+RK/GA/1
+fo0g==
+MIME-Version: 1.0
+X-Received: by 10.52.242.167 with SMTP id wr7mr6178595vdc.32.1393445916264;
+Wed, 26 Feb 2014 12:18:36 -0800 (PST)
+Received: by 10.58.253.8 with HTTP; Wed, 26 Feb 2014 12:18:36 -0800 (PST)
+Date: Wed, 26 Feb 2014 14:18:36 -0600
+Message-ID:
+Subject: SUBSCRIBE NEWSLETTER-113-MN02 Anonymous
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: anonymous,subscribe,newsletter
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.181
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201402262018360220718
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: SUBSCRIBE NEWSLETTER-113-MN02 Anonymous

@@ -1,0 +1,25 @@
+; Thu, 31 Oct 2013 16:05:17 -0400 (EDT)
+Received: from www3z1.house.gov (www3z1.house.gov [143.228.181.144])
+by s-bulk1-f.house.gov
+with ESMTP id r9VK5CeK026087
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Thu, 31 Oct 2013 16:05:12 -0400
+Received: from www3z1.house.gov (localhost [127.0.0.1])
+by www3z1.house.gov (8.14.5+Sun/8.14.5) with ESMTP id r9VK50tl022761
+for
+; Thu, 31 Oct 2013 16:05:00 -0400 (EDT)
+Received: (from webforms@localhost)
+by www3z1.house.gov (8.14.5+Sun/8.14.5/Submit) id r9VK50uv022760;
+Thu, 31 Oct 2013 16:05:00 -0400 (EDT)
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 2.117
+(F2.72; B3.01; Q3.01)
+Date: Thu, 31 Oct 2013 20:05:00 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: E-UPDATE-113-MA07 subscription

@@ -1,0 +1,42 @@
+; Wed, 26 Feb 2014 15:14:25 -0500 (EST)
+Received: from LYNX.web.us.house.gov (lynx.house.gov [143.228.150.188])
+by s-bulk2-p.house.gov
+with ESMTP id s1QKEKiR012601
+for
+; Wed, 26 Feb 2014 15:14:20 -0500
+Received: from mail-ve0-f175.google.com ([209.85.128.175])
+by LYNX.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201402262014200814203; Wed, 26 Feb 2014 15:14:20 -0500
+Received: by mail-ve0-f175.google.com with SMTP id oy12so2753436veb.20
+for
+; Wed, 26 Feb 2014 12:14:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:date:message-id:subject:from:to:content-type;
+bh=Z0hT8ToGUrbXdfmt2SMBbF2HgdiGg7tQ18huHPZDB0w=;
+b=PkFwEs9OoDoQaOzADGu95aBhWosycAkatR421SbTFhXdTm8fSy7We5rKHAPP2b2CXt
+tklY9ni1OwwagvZ7hju7iG7v8nPp4kv0qHGWNNvp3oZNr6SyEKIp1GNDRMm26Hh67QXB
+jptpQJX9WDaaXdKARE07WrrF/cRMmsM2DjTI+nPqeYQ0UK4sYL//NxKiatVYjI5fjaVT
+3s1EIWvX1X8lOpJXiPb2+kKOr03HbN+5uiil4Fwv/sER6NuF2kKK24W5hSfsVgE/GcY5
+8U+ron/X3Du3sE5xegni2o7gsG6RiVdVtPBwrlTT+bZ3qgCu8t4P0kTQiI8LSXoKrJk0
+MLJw==
+MIME-Version: 1.0
+X-Received: by 10.58.37.67 with SMTP id w3mr7286970vej.22.1393445660285; Wed,
+26 Feb 2014 12:14:20 -0800 (PST)
+Received: by 10.58.253.8 with HTTP; Wed, 26 Feb 2014 12:14:20 -0800 (PST)
+Date: Wed, 26 Feb 2014 14:14:20 -0600
+Message-ID:
+Subject: SUBSCRIBE E-UPDATE-113-MA07 David johnson
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: update,subscribe
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.175
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201402262014200814203
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: SUBSCRIBE E-UPDATE-113-MA07 David johnson

@@ -1,0 +1,20 @@
+
+&gt; ok
+The 8830ADC9 confirmation code does not correspond to any pending command. A
+command can
+only be confirmed
+once, after
+which the confirmation
+code is
+deleted and can no longer be used. If
+you are sure that you did not already
+confirm this command, then check the
+confirmation request to make sure that
+the code is the correct one. Also, check your mailbox for a message with the
+subject "Command confirmation request cancelled". Commands must be confirmed
+within a certain time frame or they will expire. If all else fails, then you
+can always send the command again to get a new confirmation code.
+&gt; On Sat, Apr 26, 2014 at 1:05 PM, LS1.HOUSE.GOV LISTSERV Server (16.0) &lt;
+Unknown command - "ON". Try HELP.
+&gt; LISTSERV@ls1.house.gov&gt; wrote:
+Unknown command - "LISTSERV@LS1.HOUSE.GOV&gt;". Try HELP.

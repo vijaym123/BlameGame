@@ -1,0 +1,220 @@
+
+If you are having trouble viewing this message or would like to share
+it on a social network, you can
+view the message online .
+Home
+|
+About
+|
+How Can I Help?
+|
+Media
+|
+Issues
+|
+The 6th
+District
+Dear Friends:
+Contrary to what many believe, our greatest national security
+threat is not al-Qaeda.
+It is not North Korea, Russia or even
+Iran.
+The greatest threat to our security is our national debt as a
+growing percentage of our nations annual economic
+output.
+This unsustainable debt is the result of decades of overpromising by
+Washington and an insatiable appetite for continually spending money that
+we simply do not have.
+And the longer we wait to resolve this
+problem, the more we resemble Greece and sadly, the more dramatic the
+solutions will be when we are forced to confront this
+problem.
+There are no easy answers to this issue.
+If there were, this
+problem would have been solved a long time ago.
+And
+unfortunately, there are always those who will complain loudly about the difficult
+choices this problem requires.
+Those are the same individuals
+who stay on the sidelines and hope that someone else will display the
+leadership necessary to make the difficult choices.
+This
+week, I voted for the Ryan budget proposal
+a nonbinding, 10-year
+forecast on spending, tax revenues, deficits and debt
+because, unlike any
+of the Democrat-offered alternatives, it balanced the budget in 10
+years without raising taxes on the American people.
+And while I do
+not agree with everything included in the proposal (for example, I
+disagree with any proposed cuts to National Institutes of Health (NIH)
+funding), I do agree that it is absolutely necessary to have a path
+towards balancing the budget over that 10-year window.
+In
+Colorado, both the budget and the annual appropriations bills are one in the
+same.
+However, in Congress, they are separate and it will be
+the appropriations process that determines actual spending.
+My
+differences with the Ryan budget will be reflected in how I vote on the
+actual appropriations bills.
+But those votes will be made with an
+overall objective of reducing Federal spending so that we can in fact
+reach our goal of a balanced budget in the next 10
+years.
+Sincerely,
+Mike
+Coffman
+U.S. Representative
+If you would like to sign up to receive regular email updates from
+Mike, please visit
+this
+link
+$ 18,357,175,644,321
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Making IT securit a priority at
+VA
+By William
+Jackson
+GCN
+Published April 4,
+2014
+If a demonstration is needed that
+security is a process, not a product, and that it depends on
+management, not technology, the Veterans Affairs Department provides
+it.
+The Government Accountability Office recently recited to a House
+panel a litany of weaknesses in the sprawling departments struggling
+IT security program. The VA inspector general has identified
+development of an info security program as a major management challenge, and
+auditors have flagged inadequate security controls in financial
+systems as a material weakness for 12 years. GAO warnings date back to
+1998, and it has reported consistent weaknesses in security control areas
+at VA since 2007.
+The persistence of similar weaknesses
+over 16 years later indicates the need for stronger, more focused
+management attention and action to ensure that VA fully implements a
+robust security program, Gregory Wilshusen, GAOs director of information
+security issues,
+told
+a House VA oversight
+subcommittee on March 25.
+In an effort to refocus management
+attention, Rep. Jackie Walorski, (R-Ind.) on April 2 introduced a bill,
+H.R. 4370 , to improve the transparency and the
+governance of the information security program of the department.
+The contents of the bill are not yet available, but Walorski said in a
+statement that it would provide a clear roadmap for immediately
+securing its system.
+The departments security shortcomings
+have been so consistent for so long that they merit attention. The size
+of the department and the scope of its mission make it one of the
+greatest IT security challenges in government. VA operates the nations
+largest healthcare system, providing healthcare for about 6 million
+veterans, administers financial benefits for millions more and manages
+veterans graves all across the country.
+In June last year,
+the House VA Oversight and Investigations Subcommittee recommended
+designating the VA network a compromised environment, and said that VA
+should establish controls to reclaim it, from nation state sponsored
+organizations.
+Department CIO Stephen W. Warren in a
+November 2013 letter to subcommittee Chairman Rep. Mike Coffman,
+responded that VA has in place a strong, multi-layered defense to combat
+evolving cybersecurity threats, including monitoring by external partners
+and active scanning of Web applications and source
+code.
+But from January 2010 through October 2013, more than 29,000 possible
+data breaches were reported by VA. In his letter, Warren noted that
+virtually all of VAs data breaches are paper-based, equipment loss or
+unencrypted e-mailing of sensitive information.
+VA is
+addressing the equipment loss issue by encrypting laptops and desktops,
+which began last year in conjunction with the departments upgrade to
+the Windows 7 OS. Warren reported that as of Oct. 29, 87 percent of
+the computers, more than 330,000 systems, were running Windows 7 and
+most of the rest were expected to be upgraded by the end of January
+2014. He noted, however, that some pockets were likely to remain due to
+what he called blocker applications, applications that are not
+compatible with Windows 7 and have not yet been
+replaced.
+Whether Congress will be able to significantly improve VAs cybersecurity
+with new legislation remains an open question. Wilshusen, in last
+months testimony to the subcommittee, said that many of the actions and
+activities specified in the bill are sound information security
+practices and consistent with federal guidelines. If implemented on a
+risk-based basis, they could prompt VA to refocus its efforts on steps
+needed to improve the security of its systems and
+information.
+But he cautioned that security should be risk-based and not based on
+technology requirements that could quickly become
+outdated.
+VA doesn't rack tissue used in surgeries, GAO
+says
+By:
+Leo Shane III
+AirForceTimes
+Published:
+April 8, 2014
+But the
+GAO report found many were purchased through vendors not vetted by the
+Food and Drug Administration, which raises serious questions about
+where they originated
+The agency also said VA has not
+developed an automated tracking system for which products were used in
+surgeries in various facilities, raising concerns that officials could not
+identify which patients to contact even if problems in the supply chain
+were identified.
+Marcia Crosse, GAOs health care
+director, noted that so far, no evidence has surfaced that veterans have
+been contaminated by tainted biological implants.
+But
+identifying such problems is difficult, and made more complicated by VAs
+outdated systems, she said.
+Lawmakers have been concerned
+over the lack of information about tissue purchases since reports two
+years ago that military and veterans hospitals bought products
+indirectly from a supplier later convicted of illegally harvesting body parts
+from cadavers.
+At a hearing April 3, members of the House
+Veterans Affairs Committee said VA officials need to find solutions
+to the tracking problems quickly, before serious health problems
+arise.
+VA needs to make VHA the premier health care delivery
+system it aspires to be, said Rep. Mike Coffman, R-Colo., referring
+to the Veterans Health Administration, the VA agency that operates its
+hospitals. The six million veterans served annually by VHA deserve
+the highest standard of patient care in the nation.
+VA
+officials acknowledged shortfalls in the system, but said they have made
+dramatic improvements in recent years. Recommendations on overhauls to
+the system are expected this fall.
+Philip Matkovsky,
+VAs assistant deputy undersecretary for health and administrative
+operations, said officials do research on vendors used for tissue purchases,
+even if they dont have FDA approval.
+Lawmakers said
+they will push for new legislation requiring the department to adopt
+clearer standards for biological implants, and track all tissue-based
+items from source to surgery.
+Washington Office
+2443 Rayburn
+HOB
+Washington, D.C.
+20515
+Phone: (202) 225-7882
+Fax: (202) 226-4623
+District Office
+Cherry Creek Place IV
+3300 S. Parker Road, Suite #305
+Aurora, CO 80014
+Phone: (720) 748-7514
+Fax: (720) 748-7680
+Unsubscribe
+|
+Update
+My Profile
+|
+Privacy Policy

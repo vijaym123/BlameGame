@@ -1,0 +1,23 @@
+
+For Immediate Release
+Lorenz.Isidro@mail.house.gov
+Friday Feb. 6, 2015
+(202) 225-3465
+U.S. Representatives Sensenbrenner, Massie &amp; Lofgren Introduce Secure Data Act
+WASHINGTON, D.C.
+U.S. Representatives Jim Sensenbrenner (R-WI), Thomas Massie (R-KY), and Zoe Lofgren (D-CA) reintroduced the bipartisan Secure Data Act to protect Americans privacy and data security by prohibiting surveillance agencies from requiring or compelling surveillance backdoors in products and services.
+A similar amendment to the Department of Defense Appropriations Act last year passed the House of Representatives by an overwhelming 293-123 vote. This amendment was not included in the CRomnibus.
+U.S. Reps. Jim Sensenbrenner (R- Wis.), Thomas Massie (R- Ky.), and Zoe Lofgren (D-Calif.), sponsors of the Secure Data Act of 2015, issued the following statement:
+Congress has allowed the Administrations surveillance authorities to go unchecked by failing to enact adequate reform. Last Congress, the Massie-Sensenbrenner-Lofgren amendment garnered support from an overwhelming bi-partisan majority in the House as a provision to the Defense Appropriations bill, but unfortunately, was not included in the CRomnibus. With threats to our homeland ever prevalent, we should not tie the hands of the intelligence community. But unwarranted, backdoor surveillance is indefensible. The Secure Data Act is an important step in rebuilding public trust in our intelligence agencies and striking the appropriate balance between national security and civil liberty.
+It has been widely reported that US intelligence and law enforcement agencies have requested or required individuals and organizations build a backdoor into their product or service to assist in unwarranted electronic surveillance.
+However, on more than one occurrence, major security flaws have been found in these backdoors that put the data security of every person and business using the internet at risk. For example, a software testing firm found serious backdoor vulnerabilities in wiretapping software for law enforcement made by Israeli software firm NICE Systems in 2013 that allowed hackers to completely compromise their system and listen to intercepted phone calls. If a backdoor is created for law enforcement and intelligence surveillance, past experience has shown its only a matter of time before hackers exploit it too.
+These "backdoors" can also be detrimental to American jobs. Other countries buy less American hardware and software and favor their domestic suppliers in order to avoid compromised American products.
+The Secure Data Act fixes this by prohibiting any agency from requesting or compelling backdoors in services and products to assist with electronic surveillance.
+###
+NOTE: Please DO NOT respond to this email as this inbox is unattended. To contact my office please
+click here
+UPDATE SUBSCRIPTION OPTIONS
+|
+PRIVACY POLICY
+|
+CONTACT US

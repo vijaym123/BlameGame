@@ -1,0 +1,38 @@
+DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Last week, the Federal Communications Commission (FCC) voted to implement new rules designed to ensure Internet Service Providers treat all content equally. These rules are part of a broader conversation over maintaining an open Internet or net neutrality, which is the principle that Internet Service Providers (ISPs) like Verizon and Comcast, provide access to all Internet content equally among companies and consumers.
+This past May, the FCC initially released and voted on a draft proposal that would allow
+paid prioritization
+practices. The draft proposal was open for public comment from May 2014 to September 2014, during which time the FCC received over 3 million comments regarding whether ISPs should be able to charge companies for faster delivery of content.
+On February 5 th , the FCC announced a new proposal that would instead ban any paid prioritization practices or blocking of content, and establish new net neutrality rules for ISPs. Last week, in a 3-2 vote, the FCC approved the February 5 th
+proposal.
+Opponents to the decision last week argue that such rules represent overly burdensome government regulations for ISPs, and will likely trigger years of lawsuits and uncertainty. Additionally, Internet Service Providers argue that the new rules will curtail their investments in faster internet speeds for consumers.
+Supporters of net neutrality and last week's decision say that allowing a large company, like Netflix, to pay a fee to Internet Service Providers, like Verizon, to guarantee that Netflix content would travel faster over Verizons network would amount to paid prioritization, and result in discriminating against smaller companies who may not be able to afford to pay a similar fee. Additionally, some argue that such paid prioritization could lead to increased prices for subscription based content purchased online by consumers.
+A summary of the FCCs press release can be viewed
+here , which further highlights the details of the new regulations.
+Question of the Week:
+Do you support the new FCC rules to regulate Internet Services Providers?
+(
+) Yes.
+(
+) No.
+(
+) I am unsure.
+(
+) Other.
+Take the Poll
+here .
+Find the results of last weeks InstaPoll
+here .
+Home
+|
+Contact
+|
+Unsubscribe
+|
+Privacy
+|
+Office Locations
+Please do not reply to this message. This email address does not accept incoming messages. To send an email,
+click here .
+Trouble viewing this email? See it in your web browser: http://forbes.house.gov/news/email/show.aspx?ID=QUHCFYZLXB657XZHLAVFCVLGTA
+Click Here Click Here

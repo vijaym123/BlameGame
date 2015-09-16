@@ -1,0 +1,51 @@
+
+* To unsubscribe from the list:
+NEWSLETTER-113-CA10-signoff-request@LS1.HOUSE.GOV
+reply to this message,
+delete the text, and type OK as
+the text of your
+message. If
+you receive an error
+message, try sending a
+new message to
+LISTSERV@LS1.HOUSE.GOV (without
+using the "reply" function)
+and type OK
+&CODE; as the text of your message.
+Your &C; will be cancelled automatically if LISTSERV does not receive your
+confirmation within &EXPIRE;h.
+After that time, you must
+start over and
+resend the &C; to get a new confirmation code. If you change your mind and
+decide that you do
+not want to confirm the &C;,
+then simply discard this
+message and let the request expire on its own.
+------------------------- Original mail header --------------------------
+Received: from s-bulk2-p.house.gov (s-bulk2-p.house.gov [143.228.181.88])
+by ls1.house.gov (8.14.5+Sun/0.00.0) with ESMTP id r9VL5Dvp011175
+for
+; Thu, 31 Oct 2013 17:05:13 -0400 (EDT)
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [143.228.126.147])
+by s-bulk2-p.house.gov
+with ESMTP id r9VL58ku000617
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Thu, 31 Oct 2013 17:05:08 -0400
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [127.0.0.1])
+by hhws-www2.house.gov (8.13.8/8.10.1) with ESMTP id r9VL58cA011961
+for
+; Thu, 31 Oct 2013 17:05:08 -0400
+Received: (from webforms@localhost)
+by hhws-www2.house.gov (8.13.8/8.13.8/Submit) id r9VL582w011960;
+Thu, 31 Oct 2013 17:05:08 -0400
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Thu, 31 Oct 2013 21:05:08 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: NEWSLETTER-113-CA10 SUBSCRIBE

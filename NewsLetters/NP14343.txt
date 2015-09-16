@@ -1,0 +1,19 @@
+; Sat, 9 Nov 2013 17:30:22 -0500 (EST)
+Received: from WWWHWW2.web.us.house.gov (wwwhww2.web.us.house.gov [143.228.126.161])
+by s-bulk1-p.house.gov
+with ESMTP id rA9MUHnZ031549
+for
+; Sat, 9 Nov 2013 17:30:17 -0500
+Received: from mail pickup service by WWWHWW2.web.us.house.gov with Microsoft SMTPSVC;
+Sat, 9 Nov 2013 17:30:17 -0500
+MIME-Version: 1.0
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+X-Mailer: MIME::Lite 3.025 (F2.76; T1.27; A2.04; B3.07; Q3.07)
+Date: Sat, 9 Nov 2013 17:30:16 -0500
+From: dj724530@gmail.com
+To: listserv@ls1.house.gov
+Subject: newsletter subscription
+Message-ID:
+X-OriginalArrivalTime: 09 Nov 2013 22:30:17.0083 (UTC) FILETIME=[43FFCCB0:01CEDD9B]

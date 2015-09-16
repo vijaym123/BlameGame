@@ -1,0 +1,45 @@
+
+Cc:
+Subject: newsletter-113-nv01 SUBSCRIBE
+CUSTOM
+David
+Johnson
+EMAIL.OPTIN
+dj724530@gmail.com
+Subscribe dj724530@gmail.com to newsletter-113-nv01
+**************Additional Information:***********************
+X-URL: http://titus.house.gov/htbin/formproc/contact/newsletter%26pass
+User Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36
+(KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+X-Remote-Host: 24.12.12.64 X_FORWARDED_FOR:24.12.12.64, 23.79.255.73,
+198.63.196.206
+DATE: 11/10/2013 00:58
+TRANS ID: 1311100661388247
+Thank you for signing up for our e-newsletter.
+This newsletter is a great resource from my office to hear from you and keep you up-to-date on the work I am doing in Washington, D.C. and around Southern Nevada.
+If there is anything that I can do to assist you with a federal agency, or if you would like to share a comment with me on an issue, please visit my website.
+Sincerely,
+Dina Titus
+Member of Congress
+-----Original Message-----
+From: dj724530@gmail.com
+Sent: 11/10/2013 1:05:11 AM
+To: "NV01DTima@mail.house.gov" &lt;NV01DTima@mail.house.gov&gt;
+Cc:
+Subject: newsletter-113-nv01 SUBSCRIBE
+&lt;APP&gt;CUSTOM
+&lt;FIRST&gt;David&lt;/FIRST&gt;
+&lt;LAST&gt;Johnson&lt;/LAST&gt;
+&lt;AFFL&gt;EMAIL.OPTIN&lt;/AFFL&gt;
+&lt;EMAIL&gt;dj724530@gmail.com&lt;/EMAIL&gt;
+&lt;MSG&gt;
+Subscribe dj724530@gmail.com to newsletter-113-nv01
+&lt;/MSG&gt;
+**************Additional Information:***********************
+X-URL: http://titus.house.gov/htbin/formproc/contact/newsletter%26pass
+User Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
+X-Remote-Host: 24.12.12.64 X_FORWARDED_FOR:24.12.12.64, 23.79.255.73, 198.63.196.206
+DATE: 11/10/2013 00:58
+TRANS ID: 1311100661388247
+&lt;/APP&gt;
+.

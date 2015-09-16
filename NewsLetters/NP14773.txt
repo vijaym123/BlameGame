@@ -1,0 +1,101 @@
+; Wed, 30 Oct 2013 22:05:54 -0400
+> (EDT)
+> Received: from hhws-www2.house.gov (hhws-www2.house.gov [143.228.126.147])
+>
+by s-bulk2-p.house.gov
+with ESMTP id r9V25mgD030968
+>
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits)
+> verified NO)
+>
+for
+; Wed, 30 Oct 2013 22:05:49 -0400
+> Received: from hhws-www2.house.gov (hhws-www2.house.gov [127.0.0.1])
+>
+by hhws-www2.house.gov (8.13.8/8.10.1) with ESMTP id
+> r9V25me6025340
+>
+for
+; Wed, 30 Oct 2013 22:05:48 -0400
+> Received: (from webforms@localhost)
+>
+by hhws-www2.house.gov (8.13.8/8.13.8/Submit) id r9V25muB025339;
+>
+Wed, 30 Oct 2013 22:05:48 -0400
+> Message-Id:
+> Content-Disposition: inline
+> Content-Transfer-Encoding: 8bit
+> Content-Type: text/plain
+> MIME-Version: 1.0
+> X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+> Date: Thu, 31 Oct 2013 02:05:48 UT
+> To: listserv@ls1.house.gov
+> From: dj724530@gmail.com
+> Subject: CONSTITUENT-LIST-GU00 SUBSCRIBE
+>
+>
+OK On Wed, Oct 30, 2013 at 9:05 PM,
+LS1.HOUSE.GOV
+LISTSERV Server (16.0)
+&lt; LISTSERV@ls1.house.gov &gt;
+wrote:
+Your command:
+SUBSCRIBE CONSTITUENT-LIST-GU00 Anonymous
+has been received. You must now reply to this message (as explained
+below) to complete your subscription. The purpose of this confirmation
+procedure is to make sure that you have indeed requested to be added to
+the list.
+To confirm the execution of your command, please reply to this message,
+delete the text, and type OK as the text of your message. If you receive
+an error message, try sending a new message to
+LISTSERV@LS1.HOUSE.GOV
+(without using the &quot;reply&quot; function) and type OK C965BF80 as the text of
+your message.
+Your command will be cancelled automatically if LISTSERV does not receive
+your confirmation within 48h. After that time, you must start over and
+resend the command to get a new confirmation code. If you change your
+mind and decide that you do not want to confirm the command, then simply
+discard this message and let the request expire on its own.
+------------------------- Original mail header --------------------------
+Received: from
+s-bulk2-p.house.gov
+( s-bulk2-p.house.gov
+[143.228.181.88 ])
+by
+ls1.house.gov
+(8.14.5+Sun/0.00.0) with ESMTP id r9V25sRe028787
+for &lt; listserv@ls1.house.gov &gt;; Wed, 30 Oct 2013 22:05:54 -0400 (EDT)
+Received: from
+hhws-www2.house.gov
+( hhws-www2.house.gov
+[143.228.126.147])
+by
+s-bulk2-p.house.gov
+with ESMTP id r9V25mgD030968
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for &lt; listserv@ls1.house.gov &gt;; Wed, 30 Oct 2013 22:05:49 -0400
+Received: from
+hhws-www2.house.gov
+( hhws-www2.house.gov
+[127.0.0.1])
+by
+hhws-www2.house.gov
+(8.13.8/8.10.1) with ESMTP id r9V25me6025340
+for &lt; listserv@ls1.house.gov &gt;; Wed, 30 Oct 2013 22:05:48 -0400
+Received: (from webforms@localhost)
+by
+hhws-www2.house.gov
+(8.13.8/8.13.8/Submit) id r9V25muB025339;
+Wed, 30 Oct 2013 22:05:48 -0400
+Message-Id: &lt; 201310310205.r9V25muB025339@hhws-www2.house.gov &gt;
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Thu, 31 Oct 2013 02:05:48 UT
+To:
+listserv@ls1.house.gov
+From:
+dj724530@gmail.com
+Subject: CONSTITUENT-LIST-GU00 SUBSCRIBE

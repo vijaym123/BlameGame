@@ -1,0 +1,25 @@
+; Sat, 26 Apr 2014 13:35:27 -0400 (EDT)
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [143.228.126.147])
+by s-bulk2-p.house.gov
+with ESMTP id s3QHZMJX010128
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Sat, 26 Apr 2014 13:35:22 -0400
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [127.0.0.1])
+by hhws-www2.house.gov (8.13.8/8.10.1) with ESMTP id s3QHZMAE016524
+for
+; Sat, 26 Apr 2014 13:35:22 -0400
+Received: (from webforms@localhost)
+by hhws-www2.house.gov (8.13.8/8.13.8/Submit) id s3QHZMs0016523;
+Sat, 26 Apr 2014 13:35:22 -0400
+Message-Id:
+X-Authentication-Warning: hhws-www2.house.gov: webforms set sender to dj724530@gmail.com using -f
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Sat, 26 Apr 2014 17:35:22 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: NEWSLETTER-NY14 SUBSCRIBE

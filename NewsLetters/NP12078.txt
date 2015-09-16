@@ -1,0 +1,5 @@
+
+&gt; gmvault sync --type custom --gmail-req "" -c no -p --emails-only
+Unknown command - "GMVAULT". Try HELP.
+&gt; dj724530@gmail.com
+Unknown command - "DJ724530@GMAIL.COM". Try HELP.

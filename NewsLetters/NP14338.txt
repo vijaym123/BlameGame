@@ -1,0 +1,73 @@
+
+* To unsubscribe from the list:
+E-KILILI-MP00-signoff-request@LS1.HOUSE.GOV
+reply to this message,
+delete the text, and type OK as
+the text of your
+message. If
+you receive an error
+message, try sending a
+new message to
+LISTSERV@LS1.HOUSE.GOV (without
+using the "reply" function)
+and type OK
+&CODE; as the text of your message.
+Your &C; will be cancelled automatically if LISTSERV does not receive your
+confirmation within &EXPIRE;h.
+After that time, you must
+start over and
+resend the &C; to get a new confirmation code. If you change your mind and
+decide that you do
+not want to confirm the &C;,
+then simply discard this
+message and let the request expire on its own.
+------------------------- Original mail header --------------------------
+X-LSVMFlags: 16
+Received: from s-bulk1-p.house.gov (s-bulk1-p.house.gov [143.228.181.87])
+by ls1.house.gov (8.14.5+Sun/0.00.0) with ESMTP id rAAIcT8x018795
+for
+; Sun, 10 Nov 2013 13:38:29 -0500 (EST)
+Received: from GEMINI.web.us.house.gov (gemini.house.gov [143.228.150.167])
+by s-bulk1-p.house.gov
+with ESMTP id rAAIcO3G014438
+for
+; Sun, 10 Nov 2013 13:38:24 -0500
+Received: from mail-ve0-f180.google.com ([209.85.128.180])
+by GEMINI.web.us.house.gov (Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201311101838230218389; Sun, 10 Nov 2013 13:38:24 -0500
+Received: by mail-ve0-f180.google.com with SMTP id oy12so2727541veb.39
+for
+; Sun, 10 Nov 2013 10:38:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+:content-type;
+bh=TB2x2KIOy5kOW2IxmpxGIZzKDpW4Ptw7hJrMNyx9DsY=;
+b=v/gvQoycs3vSDb46S4JpuyIiHv2fZoun7EHT2ucj3DPLSfBFgHWYtwE94au2qLn55P
+a2/m8tG6a8kRH6O7r9TJBN3tq/UsBfGbGgzu9uaNIrjdpIibjDXvGBVK9APXIuUBhRiw
+gFgSgnGFkDWt8qpkZPdkiZEGb8h8Uq6FztZv3Nwbt/XZCRtgswTLdMHr/ebEXE0uAxf8
+v8ZxhqI2XIm3OrSKXTqI7eRHM4gMXs0jdgDoWYmznjhNXtPbtaYyL+qu/hAPiYyjS49U
+FELZ10+SBt8ECBGOAkuqghV1WryAamzuT2OFft2L/hM7rtcDt4RA/gOeMZI7ErN1LUF6
+zesg==
+MIME-Version: 1.0
+X-Received: by 10.52.166.200 with SMTP id zi8mr104412vdb.38.1384108703814;
+Sun, 10 Nov 2013 10:38:23 -0800 (PST)
+Received: by 10.58.15.138 with HTTP; Sun, 10 Nov 2013 10:38:23 -0800 (PST)
+In-Reply-To:
+References:
+Date: Sun, 10 Nov 2013 12:38:23 -0600
+Message-ID:
+Subject: Re: Command confirmation request (4A48EA18)
+From: David Johnson
+To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+X-Mlf-KeyWords: mp,16.0,camacho,automatically,signing,reply,house,wrote,canceled,newsletter,enew
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.180
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201311101838230218389
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+X-LSVline1: ok

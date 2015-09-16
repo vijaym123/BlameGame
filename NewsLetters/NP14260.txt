@@ -1,0 +1,24 @@
+; Tue, 12 Nov 2013 16:05:40 -0500 (EST)
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [143.228.126.146])
+by s-bulk2-p.house.gov
+with ESMTP id rACL5ZV6015177
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Tue, 12 Nov 2013 16:05:35 -0500
+Received: from hhws-www1.house.gov (hhws-www1.house.gov [127.0.0.1])
+by hhws-www1.house.gov (8.13.8/8.10.1) with ESMTP id rACL5Zk5030570
+for
+; Tue, 12 Nov 2013 16:05:35 -0500
+Received: (from webforms@localhost)
+by hhws-www1.house.gov (8.13.8/8.13.8/Submit) id rACL5ZxY030569;
+Tue, 12 Nov 2013 16:05:35 -0500
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Tue, 12 Nov 2013 21:05:35 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: CONSTITUENT-SC06 SUBSCRIBE

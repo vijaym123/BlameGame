@@ -1,0 +1,268 @@
+
+If you are having trouble viewing this message or would
+like to share it on a social network, you can
+view the message online .
+Home
+|
+About
+|
+How Can I
+Help?
+|
+Media
+|
+Issues
+|
+The 6th District
+Thank a Veteran This Veterans
+Day
+Dear Friends:
+I did not serve in the Vietnam Warthe last U.S
+ground troops were departing South Vietnam in August 1972 just as I was
+completing Army basic training.
+I finished my two-year
+enlistment in 1974 and came back home to enroll as a student at the University
+of Colorado.
+I remember sitting in class one day when the subject of
+Americas involvement in the Vietnam War came up.
+One student argued
+that the only ones who allowed themselves to be drafted and sent to
+Vietnam were too dumb to know how to avoid military
+service.
+Sadly, this sentiment
+was shared by many in the anti-war movement.
+Many of
+those who avoided being drafted into military service during Vietnam
+looked down on those who went willingly.
+As the American people
+became increasingly divided over the War in Vietnam, they also became
+divided about supporting those who fought in the war.
+Too many
+Vietnam vets were never welcomed home and thanked for their
+sacrifices.
+Today, the
+deep level of respect the American people have for those who have
+served our country in the military is heartening.
+Even during the
+height of the politically divisive Iraq War, Americans have been united
+in their respect for those who have served.
+They also feel a
+profound sense of responsibility to take care of our Iraq and Afghanistan
+veterans after they came
+home.
+We must never again forget to
+appreciate the sacrifices of those who have served our nation in uniform.
+Veterans Day is a great day to thank all our nations veterans.
+Sincerely,
+Mike Coffman
+U.S. Representative
+If you would like to sign
+up to receive regular email updates from Mike, please visit
+this link
+$ 17,336,175,644,321
+Share on
+Facebook
+Share on LinkedIn
+Share on Twitter
+Congress turns up
+the heat on VA
+By Frank Konkel
+FCW.com
+Published November 4,
+2013
+The congressional investigation into the
+Department of Veterans Affairs IT security protocols has ramped up after
+VA officials gave inconsistent explanations for at least nine
+state-sponsored
+data breaches
+since 2010 that
+potentially put at risk the private information of more than 20 million
+veterans and their families.
+The House Veterans Affairs
+Committee has directed six formal inquiries to VA's Office of Information and
+Technology since Oct. 23, totaling more than 100 predominantly
+yes-or-no questions concerning routine IT security practices and standards
+mandated by federal law, including the
+Federal Information
+Security Management Act (FISMA).
+Rep.
+Mike
+Coffman
+(R-Colo.), chairman of the Subcommittee on Oversight and
+Investigations, demanded VA responses to all six inquiries by Nov.
+14.
+VA's recent track record for responding to congressional
+inquiries has been poor. According to one Capitol Hill official familiar with
+the investigation, VA has 111 outstanding information requests dating
+back to June 2012.
+The
+latest batch
+stems from revelations that multiple actors have
+compromised VA computer networks since March 2010, with VA officials
+unable to determine what information was exposed because the agency
+failed to comply with FISMA.
+Some of the apparently-breached
+systems contained unencrypted personally identifiable information
+regarding veterans and their dependents. Committee Chairman Jeff Miller
+(R-Fla.) and ranking Democrat Mike Michaud of Maine called that a
+"disturbing revelation" in
+a letter
+to VA
+Secretary Eric Shinseki after a June 4 hearing that saw VA officials provide
+conflicting information about the degree and nature of the
+breaches.
+A source within VA OIT told FCW that no veteran's
+personally identifiable information, such as names or Social Security numbers,
+was exfiltrated during any intrusion attempts.
+The
+source, who spoke on condition of anonymity, said the only compromised data
+appears to be "domain server information" that resulted in "somebody
+swiping IP [addresses] and passwords for system administrators, which
+resulted in immediate shutdown."
+"There are intrusions and
+there are intrusion attempts. Not all intrusion attempts result in a
+breach of data," the source said, attributing some of Congress' renewed
+investigatory vigor to a miscommunication of
+definitions.
+"This is no repeat of the 2006 incident," the source added. In
+that incident , someone stole a VA laptop from a VA
+employee's home. The theft potentially exposed personal information, cost
+the agency tens of millions of dollars and led to the creation of the
+VA's Data Breach Core Team, which investigates data breaches and
+determines whether the agency will offer credit monitoring services to
+veterans in suspected breaches. The agency offered credit monitoring to
+16,000 veterans in 2012, but a breach of every veterans' personal data
+could cost the agency hundreds of millions of dollars in credit
+monitoring alone, the source said.
+Congress' dogged interest has
+created a "stressed environment" within OIT, where only about 20 of
+its 8,000 employees are compiling responses to the inquiries, according
+to the source. Many questions posed by Congress to VA contain
+sub-questions or require documentation, "making it more like 500 or 600
+questions." The source said the agency is tackling the easier questions
+first in an effort to respond by the approaching
+deadline.
+The source said the inquiries have added turmoil to a department that
+recently returned half its workforce from
+government shutdown
+and has a history of
+well-documented problems .
+"It's another full-time job for a lot of
+folks, and the anticipation in submitting these questions is that it
+will beget more and they'll come back until they get a 'gotcha,'" the
+source said.
+The Hill official familiar with the probe says
+the intention is not to burden the agency but to get answers to
+questions that should not be unfamiliar to any large IT organization. "These
+inquiries aren't meant to create extra work for VA. They are meant to
+make sure the agency is adhering to the laws, standards and
+guidelines they should already be doing," the Hill source
+said.
+VA
+did not respond to multiple requests for comment.
+Veterans Agency Under Fire
+for Excessive Conference Spending
+By:
+Mark Stricherz
+TheColoradoObserver
+Published:
+November 5,
+2013
+WASHINGTON
+More than a year after
+the U.S. Department of Veterans Affairs was found to have spent at least
+$6 million for two conferences at a high-end Florida resort, the
+agency has failed to carry out half of the recommendations Congress asked
+it to undertake.
+The
+agencys mortal sin in the eyes of lawmakers has been failing to
+publish and disseminate a handbook that would tell employees which items
+they are allowed and not allowed to purchase.
+The VA had said it would publish the manual last
+spring and summer, according to a report from the agencys inspector
+general.
+The delay has
+prompted exhortations from members of the House Committee on Oversight
+and Government Reform to step up its pace.
+We see this as the urgency of now, Rep. Elijah
+Cummings of Maryland, the ranking Democrat on the House Committee on
+Oversight and Government Reform, said last
+Wednesday.
+A spokeswoman for VA did not return a
+phone call for comment.
+Every dollar wasted on lavish conferences, which are no more than
+vacations at the taxpayers expense, by the VA is a dollar not being
+spent on caring for our veterans, said Rep.
+Mike
+Coffman
+(R-Aurora), a Marine Corps combat veteran.
+My subcommittee will continue working with
+the VA to make sure that these excessive expenditures on conferences
+have stopped so that our tax dollars are going for our veterans, said
+Coffman, who is Chairman of the House Committee on Veterans Affairs
+Subcommittee on
+Oversight and
+Investigations.
+Coffmans likely Democratic opponent in
+2014, Andrew Romanoff, did not return two phone
+calls.
+The agencys budget for conferences
+has attracted the notice of Congress as well. According to a report
+from the Republican staff members of the House Oversight panel, spending
+rose to $79 million last year to $35 million in
+2008.
+VA officials have acknowledged they
+had not been diligent stewards of taxpayer dollars for two conferences
+for 1,800 of its 4,000 human-resource employees in July and August of
+2011 at the World Center Marriott in Orlando,
+Fla.
+Last September, the agencys inspector
+general concluded that while the employee training conferences had been
+for legitimate purposes, the VA had spent $762,000 in taxpayer dollars
+that had been unauthorized, unnecessary, or
+wasteful.
+Eleven VA officials who helped
+organize the conference were found to have accepted gifts improperly from
+government contractors or potential contractors. One officials haul
+was notable.
+Jolisa
+Dudley, an executive assistant in the personnel office, was found to have
+accepted a $115 massage, a $76 stretch limo ride, and a $110
+helicopter tour of a prospective site for the
+conferences.
+The agencys oversight at the conferences
+were not deemed to be more careful. According to the House Oversight
+Committee report, many VA employees skipped all or parts of the
+training sessions to attend local tourist attractions, including Walt Disney
+World Resort, also known as Disney World, which is less than two miles
+away.
+Several VA
+officials resigned in the wake of the scandal. Those officials include
+John U. Sepulveda, the assistant secretary for human resources and John
+R. Gingrich, the chief of staff to Secretary Eric K.
+Shinseki.
+The VAs inspector general
+recommended the agency undertake 49 steps to account for its use of
+taxpayer money more effectively. Twenty six have not been completed
+fully.
+Washington Office
+2443 Rayburn HOB
+Washington, D.C. 20515
+Phone: (202) 225-7882
+Fax: (202) 226-4623
+District
+Office
+Cherry Creek Place IV
+3300 S. Parker Road, Suite #305
+Aurora, CO 80014
+Phone:
+(720) 748-7514
+Fax: (720)
+748-7680
+Unsubscribe
+|
+Update My
+Profile
+|
+Privacy
+Policy

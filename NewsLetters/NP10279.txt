@@ -1,0 +1,12 @@
+SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous
+On Mon, Apr 28, 2014 at 2:00 PM,
+LS1.HOUSE.GOV
+LISTSERV Server (16.0)
+&lt; LISTSERV@ls1.house.gov &gt;
+wrote:
+Your command:
+SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous
+has remained unconfirmed for more than 48h and is being cancelled. If you
+want it executed, but you were unable to send the confirmation in time,
+then just re-issue the command to get a new confirmation code. The one
+you were sent before can no longer be used.

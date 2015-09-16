@@ -1,0 +1,42 @@
+DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Send me an email
+|
+Forward to a Friend
+The debate regarding the governments collection of information for national security purposes versus the American peoples constitutional right to privacy continues to grow.
+First, questions arose as to whether the information was even being collected.
+Now, the debate is quickly turning to whether the collection is constitutional.
+This week, the U.S. District Court for the District of Columbia examined the NSAs collection of telephony metadata, which includes, but is not limited to, the numbers of both parties on a call, along with location data, call duration, unique identifiers, and the time and duration of all calls. Metadata does not include the content of the communications.
+Earlier this year, a court order was granted compelling Verizon Communications, Inc., on an ongoing, daily basis, to provide the NSA with telephony metadata on its systems.
+In response, I joined my colleagues in
+introducing
+legislation to require the Attorney General to share all court orders with Congress to provide much needed oversight.
+The court
+held
+that because the government can use daily metadata collection to engage in repetitive, surreptitious surveillance of a citizens private goings on, the NSA database implicates the Fourth Amendment each time a government monitors it.
+Judge Richard Leon, who wrote the decision, said, I believe that bulk telephony metadata collection and analysis almost certainly does violate a reasonable expectation of privacy.
+Question of the week:
+Do you believe an individuals reasonable expectation of privacy is violated when the government collects their metadata, along with the metadata of millions of other citizens, without any particularized suspicion that they have done something wrong?
+( ) Yes.
+( ) No.
+( ) I dont know.
+( ) Other.
+Take the Poll
+here .
+Find the results of last weeks InstaPoll
+here .
+Home
+|
+Contact
+|
+Forward to a Friend
+|
+Unsubscribe
+|
+Subscribe
+|
+Privacy
+|
+Office Locations
+Please do not reply to this message. This email address does not accept incoming messages. To send an email,
+click here .
+Click Here Click Here

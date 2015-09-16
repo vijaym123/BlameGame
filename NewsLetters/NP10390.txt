@@ -1,0 +1,48 @@
+
+Cc:
+Subject: newsletter-113-mi05 SUBSCRIBE
+CUSTOM
+David
+Johnson
+EMAIL.OPTIN
+dj724530@gmail.com
+Subscribe dj724530@gmail.com to newsletter-113-mi05
+**************Additional Information:***********************
+X-URL:
+http://dankildee.house.gov/htbin/formproc/contact/newsletter%26pass
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131
+Safari/537.36
+X-Remote-Host: 216.80.113.16 X_FORWARDED_FOR:216.80.113.16,
+23.63.227.234, 198.63.196.206
+DATE: 04/26/2014 12:11
+TRANS ID: 140426041572416
+Thank you for signing up for my email newsletter! I look forward to staying connected with you in the coming term of Congress.
+If you'd like, you can also receive updates via my Facebook (http://www.facebook.com/RepDanKildee)
+and Twitter (@RepDanKildee) pages.
+In the meantime, please don't hesitate to contact me if I can be of any assistance to you. Additionally, you can always find helpful information and various resources on my website, www.dankildee.house.gov.
+Sincerely,
+Dan Kildee
+Member of Congress
+-----Original Message-----
+From: dj724530@gmail.com
+Sent: 4/26/2014 12:35:09 PM
+To: "MI05DKima@mail.house.gov" &lt;MI05DKima@mail.house.gov&gt;
+Cc:
+Subject: newsletter-113-mi05 SUBSCRIBE
+&lt;APP&gt;CUSTOM
+&lt;FIRST&gt;David&lt;/FIRST&gt;
+&lt;LAST&gt;Johnson&lt;/LAST&gt;
+&lt;AFFL&gt;EMAIL.OPTIN&lt;/AFFL&gt;
+&lt;EMAIL&gt;dj724530@gmail.com&lt;/EMAIL&gt;
+&lt;MSG&gt;
+Subscribe dj724530@gmail.com to newsletter-113-mi05
+&lt;/MSG&gt;
+**************Additional Information:***********************
+X-URL: http://dankildee.house.gov/htbin/formproc/contact/newsletter%26pass
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+X-Remote-Host: 216.80.113.16 X_FORWARDED_FOR:216.80.113.16, 23.63.227.234, 198.63.196.206
+DATE: 04/26/2014 12:11
+TRANS ID: 140426041572416
+&lt;/APP&gt;
+.

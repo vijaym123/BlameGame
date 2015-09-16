@@ -1,0 +1,158 @@
+; Tue, 29 Apr 2014 12:45:16 -0400
+> (EDT)
+> Received: from GEMINI.web.us.house.gov (gemini.house.gov[143.228.150.167])
+>
+by s-bulk1-p.house.gov
+with ESMTP id s3TGjAG6023729
+>
+for
+; Tue, 29 Apr 2014 12:45:11 -0400
+> Received: from mail-ve0-f173.google.com ([209.85.128.173])
+>
+by GEMINI.web.us.house.gov (Undisclosed)
+>
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+>
+id 201404291645060217034; Tue, 29 Apr 2014 12:45:07 -0400
+> Received: by mail-ve0-f173.google.com with SMTP id oy12so615519veb.32
+>
+for
+; Tue, 29 Apr 2014 09:45:10 -0700
+> (PDT)
+> DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+>
+d=gmail.com; s=20120113;
+>
+> h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+>
+:content-type;
+>
+bh=Y2//SiYqPNkGMsH1FVxS6/KCv8Z3eNlhanX1jhX+xqA=;
+>
+> b=Sj+ZJgQ/kliu/ZVMj3+OsN2K4nWZupKaiqzaGiAdFArqzjWTXiqEEvAoOmq6R/8nMK
+>
+>
+2NiR4U1f5h/7cDy2UrYCCt6OTENH+54Pk9rlFy3jvgmJ1Hy6IzSIFAOvrosDbmM8IDZB
+>
+>
+wmkcLcNpmm5dbabw06ft1tI8OZKoiIpPTWd5NUW6Bcy50eSarP2CuqACA6u6XpYqae1U
+>
+>
+mUDWqWb/XhXZUkv9WqXkBZaCreWpqzQdKaj6VV3FoJ8bwUBwBqfQpI1E0CgNDkZHKIsN
+>
+>
+8AjlhGG5JMmx8ip+8A5U3flSx+cdOuzFIEJNlB0RVD2tUhe3E8pqOWjbtMb2sr05/L8c
+>
+FXww==
+> MIME-Version: 1.0
+> X-Received: by 10.221.19.196 with SMTP id ql4mr219137vcb.64.1398789910461;
+>
+Tue, 29 Apr 2014 09:45:10 -0700 (PDT)
+> Received: by 10.58.88.231 with HTTP; Tue, 29 Apr 2014 09:45:10 -0700 (PDT)
+> In-Reply-To:
+> References:
+> Date: Tue, 29 Apr 2014 11:45:10 -0500
+> Message-ID:
+CAEGS32hqXkETp9XQZaC1bbPC+KC2TWy37LQCnrBMXmboLG99NA@mail.gmail.com>
+> Subject: Re: Subscription confirmation cancelled
+> From: David Johnson
+> To: "LS1.HOUSE.GOV LISTSERV Server (16.0)"
+> X-Mlf-KeyWords:
+> reissue,16.0,send,confirmation,code,remained,wrote,issue,subscription,subscribe,
+> X-Mlf-Policy: Skip spam quarantine to dictionary list
+> X-Mlf-Language-Detected: NoLanguageFilter_English
+> X-Mlf-Connecting-IP: 209.85.128.173
+> X-Mlf-Country-Code: US
+> X-Mlf-Threat: policy
+> X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list
+> ;policy
+> X-Mlf-UniqueId: i201404291645060217034
+> Content-Type: TEXT/PLAIN; charset=UTF-8
+> X-LSVline1: SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous
+>
+>
+OK On Tue, Apr 29, 2014 at 11:45 AM,
+LS1.HOUSE.GOV
+LISTSERV Server (16.0)
+&lt; LISTSERV@ls1.house.gov &gt;
+wrote:
+Your command:
+SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous
+has been received. You must now reply to this message (as explained
+below) to complete your subscription. The purpose of this confirmation
+procedure is to make sure that you have indeed requested to be added to
+the list.
+To confirm the execution of your command, please reply to this message,
+delete the text, and type OK as the text of your message. If you receive
+an error message, try sending a new message to
+LISTSERV@LS1.HOUSE.GOV
+(without using the &quot;reply&quot; function) and type OK 765C3378 as the text of
+your message.
+Your command will be cancelled automatically if LISTSERV does not receive
+your confirmation within 48h. After that time, you must start over and
+resend the command to get a new confirmation code. If you change your
+mind and decide that you do not want to confirm the command, then simply
+discard this message and let the request expire on its own.
+------------------------- Original mail header --------------------------
+X-LSVMFlags: 16
+Received: from
+s-bulk1-p.house.gov
+( s-bulk1-p.house.gov
+[143.228.181.87 ])
+by
+ls1.house.gov
+(8.14.5+Sun/0.00.0) with ESMTP id s3TGjG1Y001019
+for &lt; LISTSERV@ls1.house.gov &gt;; Tue, 29 Apr 2014 12:45:16 -0400 (EDT)
+Received: from
+GEMINI.web.us.house.gov
+( gemini.house.gov
+[143.228.150.167])
+by
+s-bulk1-p.house.gov
+with ESMTP id s3TGjAG6023729
+for &lt; LISTSERV@ls1.house.gov &gt;; Tue, 29 Apr 2014 12:45:11 -0400
+Received: from
+mail-ve0-f173.google.com
+([209.85.128.173])
+by
+GEMINI.web.us.house.gov
+(Undisclosed)
+with ESMTP (version=TLSv1/SSLv3 cipher=RC4-SHA bits=128/128)
+id 201404291645060217034; Tue, 29 Apr 2014 12:45:07 -0400
+Received: by
+mail-ve0-f173.google.com
+with SMTP id oy12so615519veb.32
+for &lt; LISTSERV@ls1.house.gov &gt;; Tue, 29 Apr 2014 09:45:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d= gmail.com ; s=20120113;
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+:content-type;
+bh=Y2//SiYqPNkGMsH1FVxS6/KCv8Z3eNlhanX1jhX+xqA=;
+b=Sj+ZJgQ/kliu/ZVMj3+OsN2K4nWZupKaiqzaGiAdFArqzjWTXiqEEvAoOmq6R/8nMK
+2NiR4U1f5h/7cDy2UrYCCt6OTENH+54Pk9rlFy3jvgmJ1Hy6IzSIFAOvrosDbmM8IDZB
+wmkcLcNpmm5dbabw06ft1tI8OZKoiIpPTWd5NUW6Bcy50eSarP2CuqACA6u6XpYqae1U
+mUDWqWb/XhXZUkv9WqXkBZaCreWpqzQdKaj6VV3FoJ8bwUBwBqfQpI1E0CgNDkZHKIsN
+8AjlhGG5JMmx8ip+8A5U3flSx+cdOuzFIEJNlB0RVD2tUhe3E8pqOWjbtMb2sr05/L8c
+FXww==
+MIME-Version: 1.0
+X-Received: by 10.221.19.196 with SMTP id ql4mr219137vcb.64.1398789910461;
+Tue, 29 Apr 2014 09:45:10 -0700 (PDT)
+Received: by 10.58.88.231 with HTTP; Tue, 29 Apr 2014 09:45:10 -0700 (PDT)
+In-Reply-To: &lt; LISTSERV%201404281500006379.01D6@LS1.HOUSE.GOV &gt;
+References: &lt; LISTSERV%201404281500006379.01D6@LS1.HOUSE.GOV &gt;
+Date: Tue, 29 Apr 2014 11:45:10 -0500
+Message-ID: &lt; CAEGS32hqXkETp9XQZaC1bbPC+KC2TWy37LQCnrBMXmboLG99NA@mail.gmail.com &gt;
+Subject: Re: Subscription confirmation cancelled
+From: David Johnson &lt; dj724530@gmail.com &gt;
+To: &quot; LS1.HOUSE.GOV
+LISTSERV Server (16.0)&quot; &lt; LISTSERV@ls1.house.gov &gt;
+X-Mlf-KeyWords: reissue,16.0,send,confirmation,code,remained,wrote,issue,subscription,subscribe,
+X-Mlf-Policy: Skip spam quarantine to dictionary list
+X-Mlf-Language-Detected: NoLanguageFilter_English
+X-Mlf-Connecting-IP: 209.85.128.173
+X-Mlf-Country-Code: US
+X-Mlf-Threat: policy
+X-Mlf-Threat-Detailed: policy;none;Skip spam quarantine to dictionary list ;policy
+X-Mlf-UniqueId: i201404291645060217034
+Content-Type: TEXT/PLAIN; charset=UTF-8
+X-LSVline1: SUBSCRIBE NEWS_YOU_CAN_USE-DC00 Anonymous

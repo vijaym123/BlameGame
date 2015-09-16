@@ -1,0 +1,24 @@
+; Wed, 30 Oct 2013 22:05:54 -0400 (EDT)
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [143.228.126.147])
+by s-bulk2-p.house.gov
+with ESMTP id r9V25mgD030968
+(using TLSv1/SSLv3 with cipher DHE-RSA-AES256-SHA (256 bits) verified NO)
+for
+; Wed, 30 Oct 2013 22:05:49 -0400
+Received: from hhws-www2.house.gov (hhws-www2.house.gov [127.0.0.1])
+by hhws-www2.house.gov (8.13.8/8.10.1) with ESMTP id r9V25me6025340
+for
+; Wed, 30 Oct 2013 22:05:48 -0400
+Received: (from webforms@localhost)
+by hhws-www2.house.gov (8.13.8/8.13.8/Submit) id r9V25muB025339;
+Wed, 30 Oct 2013 22:05:48 -0400
+Message-Id:
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.74; A1.77; B3.07; Q3.07)
+Date: Thu, 31 Oct 2013 02:05:48 UT
+To: listserv@ls1.house.gov
+From: dj724530@gmail.com
+Subject: CONSTITUENT-LIST-GU00 SUBSCRIBE
