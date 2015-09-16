@@ -1,5 +1,5 @@
-Scrape Newsletters
-=================
+Blame Game with Congress Newsletters
+====================================
 
 The project is on collecting data from newsletters and analyzing it. <br>
 
