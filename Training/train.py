@@ -36,7 +36,7 @@ for row in reader:
 
 alchemyapi = AlchemyAPI()
 
-for f in officialData[1:]:
+for f in officialData[21:]:
     newsletter = open(BasePath+"/NewsLetters/"+f+".txt","r").read()
     count = 0
     csvfile = open(BasePath+"/TrainingData/Newsletters-Parsed/"+f+'.csv', 'wb')

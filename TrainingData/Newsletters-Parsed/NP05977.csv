@@ -1,0 +1,20 @@
+[if gte mso 10]><!,neutral,None
+"[endif]Dear Friend,Are you planning a visit to Washington, D.C.?",neutral,None
+"Whether you're coming on a short business trip or an extended family vacation, my office can help you make arrangements to see some of the most popular federal attractions in our nation's capital.",positive,0.537356
+"By filling outthis form , my office can help you book tours to the White House, U.S.",positive,0.366651
+"Capitol, Pentagon, State Department, Supreme Court, Bureau of Engraving and Printing, and the Library of Congress.",neutral,None
+"After submitting your tour request, you can expect to hear from my office within a couple of days.",positive,0.357794
+These tours are an excellent way to see all that the nation's capital has to offer.,positive,0.930573
+All of these tours are free of charge.,positive,0.405381
+"Tickets are provided to 7th Congressional District constituents on a first-come, first-served basis.",neutral,None
+"Due to the large number of visitors, please place your request as early as possible to maximize your chances.",positive,0.645948
+"Of course, there are many other places in Washington, D.C.",positive,0.279313
+that you and your family may be interested in visiting.,positive,0.435637
+The links below have information on other popular sites located throughout the capital region.,neutral,None
+"Mount VernonThe SmithsonianNational Mall and Memorial ParksAs always, please feel free to call or email my office if there is anything I can do for you.",positive,0.580868
+"Regards,Andr&eacute;Voting: Our Privilege and ResponsibilityOne of the greatest privileges of being an American citizen is the opportunity to voice your opinion through the electoral process.",positive,0.687633
+"Below are important dates for Indiana voters:Monday, October 6, 2014 &ndash; Voter Registration EndsTuesday.",neutral,None
+"November 4, 2014 &ndash; General Election DayYou can register to vote in Indiana by clicking here:https://indianavoters.in.gov/PublicSite/PublicMain.aspxNow you can follow my updates on:UnsubscribePrivacy PolicyWashington Office2453 Rayburn HOBWashington, D.C.",neutral,None
+20515-1407Phone: 202-225-4011Fax: 202-225-5633District Office300 E Fall Creek Pkwy N Dr.,neutral,None
+"Suite 300Indianapolis, IN 46205-4258Phone: 317-283-6516Fax: 317-283-6567Are You Uninsured?",negative,-0.498458
+#GetCovered!,neutral,None
